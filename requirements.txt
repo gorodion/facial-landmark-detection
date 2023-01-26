@@ -1,0 +1,8 @@
+git+https://github.com/gorodion/pycv.git
+matplotlib
+numpy
+tqdm
+catalyst
+albumentations
+scikit-learn
+dlib
