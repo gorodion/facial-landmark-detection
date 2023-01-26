@@ -2,7 +2,7 @@
 
 ### Instruction
 1. Установить зависимости из requirements.txt
-```pip install -r requirements.txt```
+```pip install -r requirements.txt```. Будет установлен PyTorch версии 1.8.1 
 2. Скачать [shape_predictor](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) для dlib и распаковать его
 3. В файле config.py указать:
    1. `DATA_DIR` - путь до папки с данными landmarks_test
